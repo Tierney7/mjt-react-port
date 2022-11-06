@@ -1,60 +1,67 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"",
+    "name": "Matthew Tierney",
+    "role": "Full Stack Web Developer",
+    "linkedinId":"https://www.linkedin.com/in/matthew-tierney-a94599242/",
+    
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/matthew-tierney-a94599242/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/Tierney7",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/tierneycode",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Recent Universtiy of Kansas Full-Stack Bootcamp graduate. Looking forward to begining my career as a web developer. I excel and most importantly enjoy both the front and back-end. CSS, NODE, and Ruby on Rails are some of my favoties just to name a few. I believe my creative abilites, work ethic, and management background truly set me apart from the crowd. In my spare time i enjoy painting, drawing, playing basketball and most of all i love to cook.",
+    "address":"Kansas City, MO",
+    "website":"",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"The University of Kansas",
+        "specialization":"Full-Stack Coding Bootcamp",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2022",
+       
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Code Academy",
+        "specialization":"Full-Stack Software Engineer",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2022",
+       
+      },
+      {
+        "UniversityName":"Blue Valley High School",
+        "specialization":"Diploma",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2006",
       }
+
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"The Granfalloon",
+        "specialization":"General Manager",
+        "MonthOfLeaving":"August",
+        "YearOfLeaving":"2021",
+      
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Miller Marketing & Distribution",
+        "specialization":"Research & Development Manager",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"Current",
+        "Achievements":""
       }
     ],
     "skillsDescription":"Your skills here",
@@ -73,7 +80,7 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"public/images/portfolio/Screenshot(42).png"
       },
       {
         "name":"project2",
@@ -91,16 +98,6 @@ let resumeData = {
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
-  }
+     }
   
   export default resumeData
