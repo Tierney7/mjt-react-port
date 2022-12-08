@@ -22,8 +22,8 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Recent Universtiy of Kansas Full-Stack Bootcamp graduate. Looking forward to begining my career as a web developer. I excel and most importantly enjoy both the front and back-end. CSS, NODE, and Ruby on Rails are some of my favoties just to name a few. I believe my creative abilites, work ethic, and management background truly set me apart from the crowd. In my spare time i enjoy painting, drawing, playing basketball and most of all i love to cook.",
-    "address":"Kansas City, MO",
+    "aboutme":"Full-Stack web developer leveraging Art and Management background to build a new, creative, and more intuitive user experience on the web. Recently earned a certificate in full stack development from the University of Kansas, with newly developed skills in HTML, JavaScript, CSS, React.js, and responsive web design to name a few. Along with my studies though the university I have also earned several certificates of completion with Codecademy. Passionate about developing functional and cosmetically pleasing apps, with a focus on mobile design and development. With each project, my goal is to grab my audience's attention with stunning design for a unique user experience. I have applied aspects of several languages for my personal projects, both front and back-end. I’ve contributed to 3 separate group projects. Building everything from a local restaurant review website utilizing API’s, a recipe generator using Handlebars, and a social network designed to help coding students, and professionals stay in touch. I am excited to use these skills, along with my professional background as part of a creative, quality-driven team to build functional, and more unique experiences for internet users. ",
+    "address":"",
     "website":"",
     "education":[
       {
