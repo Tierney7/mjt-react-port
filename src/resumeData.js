@@ -80,7 +80,7 @@ let resumeData = {
       {
         "name":"README.md Generator",
         "description":"mobileapp",
-        "imgurl":"public\images\portfolio\Screenshot (42).png"
+        "imgurl":"public/images/portfolio/Screenshot (42).png"
       },
       {
         "name":"project2",
