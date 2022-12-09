@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mjt-react-port/static/css/main.4152c3d3.css",
+    "main.js": "/mjt-react-port/static/js/main.e8459eb9.js",
+    "index.html": "/mjt-react-port/index.html",
+    "main.4152c3d3.css.map": "/mjt-react-port/static/css/main.4152c3d3.css.map",
+    "main.e8459eb9.js.map": "/mjt-react-port/static/js/main.e8459eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.e8459eb9.js"
+  ]
+}
