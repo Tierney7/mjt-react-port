@@ -1,7 +1,10 @@
 # React Portfolio 
 
 ## Description
-Applying all my coding and bootcamp knowledge along with my new REACT kills to create a professional portfolio to set me apart from other developers.
+Applying all my coding and bootcamp knowledge along with my new REACT kills to create a professional portfolio to set me apart from other developers. 
+
+## Link
+https://tierney7.github.io/mjt-react-port/
 
 ## Installation 
 npm i 
