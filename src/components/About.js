@@ -14,10 +14,10 @@ export default class About extends Component {
 
             <div className="nine columns main-col">
 
-               <h2>My Story</h2>
+               <h2>The simple way for Builders and Designers to store, share, and update job site files with trade partners</h2>
                <p>
                {
-                 resumeData.aboutme
+                 
                }
                </p>
 
